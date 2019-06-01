@@ -1,0 +1,27 @@
+*/packages/*
+/packages/*
+*/csx/*
+/csx/*
+obj/
+bin/
+.vs/
+.vs/*
+TestResults/
+Downloaded Profiling Logs/
+Downloaded Profiling Logs/*
+Backup/
+Backup/*
+*/.svn
+_ReSharper.*
+*.csproj.user
+*.resharper.user
+*.resharper
+*.GhostDoc.xml
+*.DotSettings
+*.suo
+*.cache
+*~
+*.swp
+*.log
+*.user
+*.vsconfig

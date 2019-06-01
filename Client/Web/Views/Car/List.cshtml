@@ -1,0 +1,9 @@
+﻿@model System.Collections.Generic.List<string>
+@{
+    ViewData["Title"] = "Car Page";
+}
+
+<ul>
+    @foreach (var car in @Model)
+    {<li>@car</li>}
+</ul>
